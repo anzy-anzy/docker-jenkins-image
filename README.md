@@ -51,7 +51,7 @@ HTML	Simple web content
 
 - Port 22 – SSH
 
-- Port 8080 – Jenkins
+- Port 8081 – Jenkins
 
 - Port 80/8080 – Docker container testing
 
